@@ -1,0 +1,14 @@
+* {
+    --SoftBlue: #8bacd9;
+      --Cyan: #00fff8;
+      --mainBG: #0d192c;
+      --cardBG: #15263f;
+      --line: #2e405a;
+      margin: 0;
+      padding: 0;
+  
+    font-family: "Outfit", sans-serif;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+  }
